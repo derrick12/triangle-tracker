@@ -16,6 +16,6 @@ function leTriangle() {
   }
 
   else {
-    alert("Not a Triangle!");
+    alert("Not a Triangle! Please try again.");
   }
 }
