@@ -5,3 +5,7 @@ var c = parseInt(prompt("Enter the side of C"));
 if (a === b && b === c) {
   alert("This is an equilateral Triangle");
 }
+
+else if (a === b || b===c || a===c ) {
+  alert("This is an isosceles Triangle");
+}
