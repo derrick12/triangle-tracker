@@ -9,10 +9,17 @@ This application allows you to input the lengths of the sides of a triangle, and
 * Clone the repository to a local directory
 * open the index.html file using the browser to view the website.
 
+## How to work through the Application
+* Open index.html with a browser.
+* Click the button (CLICK ME!) at the bottom of the page.
+* A prompt box will be displayed at the top  
+* Input the length of the first side ("a") of the triangle followed by the second ("b") and finally the third ("c")
+* An alert will be displayed indicating the type of triangle formed from your input.
+
 ## Live Webpage at : https://derrick12.github.io/triangle-tracker/
 
 ## Technologies Used
-I have built the application using JavaScript, HTML and used CSS for styling of the website.
+I have built the application using JavaScript, and HTML and CSS for styling of the website.
 
 ## Support and contact details
 Feel free to contact me in case of any issues you encounter at derrickwaweru@gmail.com
