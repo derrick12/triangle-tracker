@@ -47,3 +47,10 @@
   background-color: #03A9F4;
   color: white;
 }
+
+.footer {
+  width: 100%;
+  background-color: #CFD8DC;
+  color: black;
+  text-align: center;
+}
