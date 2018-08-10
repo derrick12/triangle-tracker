@@ -5,7 +5,7 @@
 This application allows you to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all..
 ## Setup/Installation Requirements
 * In order to work the application locally on your computer you will need to have both Git and a working browser preferably chrome browser installed in your computer.
-* Clone or download the website url from my github account locally
+* Clone or download the website URL from my git hub account locally
 * Clone the repository to a local directory
 * open the index.html file using the browser to view the website.
 
@@ -15,7 +15,7 @@ This application allows you to input the lengths of the sides of a triangle, and
 I have built the application using JavaScript, HTML and used CSS for styling of the website.
 
 ## Support and contact details
-Feel free to cantact me incase of any issues you encounter at derrickwaweru@gmail.com
+Feel free to contact me in case of any issues you encounter at derrickwaweru@gmail.com
 
 MIT License
 
