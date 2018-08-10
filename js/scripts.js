@@ -15,7 +15,7 @@ function leTriangle() {
     alert("This is an scalene Triangle");
   }
 
-  else ( a+b<=c || b+c<=a || a+c<=b ){
-    alert("This is not a tringle");
+  else {
+    alert("Try Again, wrong input");
   }
 }
