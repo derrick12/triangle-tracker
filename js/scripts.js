@@ -14,6 +14,6 @@ else if ( a+b>c || b+c>=a || a+c<=b ) {
   alert("This is an scalene Triangle");
 }
 
-else ( a+b<=c || b+c<=a || a+c<=b );{
+else ( a+b<=c || b+c<=a || a+c<=b ){
   alert("This is not a tringle");
 }
